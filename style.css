@@ -1,0 +1,23 @@
+img{
+    height: 400px;
+    width: 400px;
+}
+html{
+   background-color: rgb(37, 58, 83);
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(143, 71, 104);
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(104, 32, 114);
+
+}
+h3{
+    font-style: oblique;
+    color: bisque;
+}
+p{
+    color: antiquewhite;
+}
